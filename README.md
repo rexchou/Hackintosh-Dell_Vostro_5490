@@ -6,9 +6,8 @@ OpenCore EFI for Dell Vostro 5490.
 
 - **Operating System**: macOS Tahoe supported.
 - **Graphics**: Intel UHD Graphics 620/630 with full hardware acceleration.
-- **DRM**: Full support for streaming services (Netflix, Apple TV+, etc.).
-- **Audio**: Built-in speakers and headphone jack (ALC236).
-- **Wi-Fi**: Intel Wi-Fi support (via `AirportItlwm`).
+- **Audio**: Realtek ALC236 (layout-id: 11), internal speakers working.
+- **Wi-Fi**: Intel Wi-Fi support (via `AirportItlwm`) with native macOS Tahoe features.
 - **Bluetooth**: Intel Bluetooth support.
 - **Ethernet**: Wired network connection (Realtek RTL8111).
 - **Touchpad**: Multi-touch gestures enabled.
