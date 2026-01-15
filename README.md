@@ -15,6 +15,7 @@ OpenCore EFI for Dell Vostro 5490.
 - **Power Management**: Native CPU power management.
 - **Function Keys**: Brightness and volume control keys.
 - **Sleep/Wake**: System sleep and wake functionality.
+- **Camera**: Built-in webcam working.
 
 ## 🔴 Not Working
 
